@@ -39,10 +39,7 @@ sidebar:
       - item: Swimming
         link:
 
-      - item: Drawing
-        link:
-
-      - item: Cooking
+      - item: Cycling
         link:
 
 career-profile:
@@ -53,51 +50,29 @@ education:
     - degree: PGDip in Software Engineering
       university: Universidad Distrital Francisco José de Caldas
       time: 2018 - 2019
-      details: |
-          - *Relevant coursework:* Deployed knowledges about software arquitecture, bussnes arquitecture, model principles
     - degree: BSc in Electronic Engineering
-      university: Bristol University
+      university: Universidad Distrital Francisco José de Caldas
       time: 2010 - 2017
-      details: |
-          - *Relevant coursework:* Deployed knowledges about microcontrolers arquitecture, Computer Inteligence, Strong Mathematical bases
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Testing Lead
+      time: 2018 - Present
+      company: Appgate/Cyxtera, Bogotá D.C.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        //TODO: translate
+        Gestionar, organizar y ejecutar tareas relacionadas con el aseguramiento
+        de la calidad del software, desde la planeacion de las prueba, diseño y 
+        ejecucion de estas. Este rol lo he desempeñado para varios productos con 
+        diferentes tecnologias: aplicaciones de escritorio, servicios onprimise, 
+        servicios cloud y aplicaciones moviles.
+    - role: Quality Assurance Tester
+      time: 2017 - 2018
+      company: Easy Solutions/Cyxtera, Bogotá D.C.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        //TODO: translate
+        Encargado del diseño y ejecucion de pruebas para el aseguramiento de 
+        la calidad del software. Durante este tiempo desarrolle soluciones de 
+        automatizacion desde el despliegue de entornos con docker, gestion de 
+        pruebas con jira y automatizacion con SoapUI y Postman. 
 projects:
     title: Projects
     intro: >
